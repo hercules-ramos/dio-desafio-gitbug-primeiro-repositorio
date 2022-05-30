@@ -1,0 +1,60 @@
+HTML5
+
+Estrutura básica
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta>
+  <title></title>
+ </head>
+ <body>
+ </body>
+</html>
+
+Semântica
+
+<section>
+<header>
+<article>
+<aside>
+<footer>
+<h1>-<h6>
+
+Textos e links
+
+<h1>Título da página</h1>
+<h2>Título de seção</h2>
+<h3>Título de artigo</h3>
+<p>Conteúdo do artigo</p>
+<a>Link</a>
+<a href="site.com">Site</a>
+<a href="email@site.com">E-mail</a>
+<a target="_blank">Link</a>
+
+Imagens
+
+<img>
+<img src="img/avatar.jpg">
+<img alt="Foto de Hercules Ramos">
+
+Listas
+<ul>
+Item 1
+Item 2
+<ol>
+1. Item 1
+2. Item 3
+<li>
+
+CSS3
+
+Introdução
+id
+class
+
+Box model
+margin
+border
+padding
+content
