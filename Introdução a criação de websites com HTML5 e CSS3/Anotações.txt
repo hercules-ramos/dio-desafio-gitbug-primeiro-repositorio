@@ -58,3 +58,41 @@ margin
 border
 padding
 content
+
+Estilizando elementos
+padding-top: 15px;
+padding=right: 10px;
+padding=bottom: 5px;
+padding-left: 0;
+background-color: green;
+border: 3px solid green;
+border: dotted;
+border: dashed;
+border-top-width;
+border-top-color;
+border-top-style;
+border-radius: 10px;
+border-radius: 50%;
+
+Estilizando textos
+font-family: Verdana;
+font-family: Verdana, Arial;
+font-size: 30px;
+font-style: normal;
+font-style: italic;
+font-weight: normal;
+text-transform: uppercase;
+text-decoration: underline;
+
+Estilizando listas
+list-style-type: square;
+list-style-type: upper-roman;
+list-style-type: "\1F44D";
+
+Dimensão e alinhamento
+Width (largura)
+Height (altura)
+Max-width
+Max-height
+Margin
+Text align
